@@ -1,0 +1,2 @@
+# gomoku
+RUN ON QT
